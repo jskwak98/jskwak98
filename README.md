@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=rect&text=Works%20I've%20Done&color=Gradient&customColorList=1,4,6)
+![header](https://capsule-render.vercel.app/api?type=rect&text=Works%20I've%20Done&color=Gradient&customColorList=0,2,2,5,30)
 ### Hi there 👋
 
 
-[![My Project](https://github-readme-stats.vercel.app/api/pin/?username=jskwak98&repo=CPU Scheduler Team Project)](https://github.com/jskwak98/2022-1-OS-12-Term-Project)
+[![My Project](https://github-readme-stats.vercel.app/api/pin/)](https://github.com/jskwak98/2022-1-OS-12-Term-Project)
 
 [![My Project](https://github-readme-stats.vercel.app/api/pin/?username=jskwak98&repo=AI Bookathon)](https://github.com/jskwak98/Bookathon3_Bookie_On_And_On)
 

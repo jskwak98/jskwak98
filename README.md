@@ -2,8 +2,10 @@
 ### Hi there 👋
 
 
-![jskwak98's github stats](https://github-readme-stats.vercel.app/api?username=jskwak98&show_icons=true)
-[![jskwak98's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jskwak98&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jskwak98)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jskwak98&repo=2022-1-OS-12-Term-Project)](https://github.com/anuraghazra/github-readme-stats)
+
+![jskwak98's github stats](https://github-readme-stats.vercel.app/api?username=jskwak98&show_icons=true&count_private=true&theme=dark)
+[![jskwak98's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jskwak98&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true&theme=dark)](https://github.com/jskwak98)
 <!--
 **jskwak98/jskwak98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

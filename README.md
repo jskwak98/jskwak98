@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&text=Works%20I've%20Done&color=gradient&customColorList=2)
 
-
+<br><br>
 
 ## Project Repository Table
 
@@ -14,9 +14,9 @@
 | [Boostcamp KLUE Relation Extraction Competition](https://github.com/boostcampaitech2/klue-level2-nlp-08) | Boostcamp AI Tech, KLUE Dataset의 관계추출 Task를 주제로 한 대회 코드. |
 | [Boostcamp Machine Reading Comprehension](https://github.com/boostcampaitech2/mrc-level2-nlp-08) | Boostcamp AI Tech, Machine Reading Comprehension 대회 코드.  |
 
-
+<br><br>
 ## Stacks
-
+<p>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&logo=Python&logoColor=white"/>
 <img src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&logo=PyTorch&logoColor=white"/>
 <img src = "https://img.shields.io/badge/-HuggingFace-yellow">
@@ -25,6 +25,9 @@
 <img src = "https://img.shields.io/badge/-Verilog-lightgrey">
 <img src = "https://img.shields.io/badge/-Java-orange">
 <img src ="https://img.shields.io/badge/Godot-478CBF.svg?&logo=godotengine&logoColor=white">
+</p>
 
-
+<br><br>
+## Github Stats
 ![jskwak98's github stats](https://github-readme-stats.vercel.app/api?username=jskwak98&show_icons=true&count_private=true&theme=dark)[![jskwak98's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jskwak98&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true&theme=dark)](https://github.com/jskwak98)
+

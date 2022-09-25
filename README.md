@@ -15,6 +15,12 @@
 | [Boostcamp Machine Reading Comprehension](https://github.com/boostcampaitech2/mrc-level2-nlp-08) | Boostcamp AI Tech, Machine Reading Comprehension 대회 코드.  |
 
 <br><br>
+## Currently Studying
+[Django](https://github.com/jskwak98/Jump2Django)<br>
+Security<br>
+Deep Learning
+
+<br><br>
 ## Stacks
 <p>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&logo=Python&logoColor=white"/>

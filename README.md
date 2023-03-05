@@ -8,6 +8,9 @@
 
 |                           Project                            |                         Description                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [RAKE Algorithm for Korean using KiWi Tokenizer](https://github.com/jskwak98/RAKE_Korean) | Keyword Extraction Algorithm for Korean using KiWi, and TF-IDF for multiple documents |
+| [Finding Hash Collision Pairs](https://github.com/jskwak98/Info_sec_proj2) | 2022-2 정보보호 수업 프로젝트 |
+| [Software Security - The Broker App for GitCTF(Hacking Competition)](https://github.com/MinGeunSong/SoftwareSecurityTeam03_1113) | 소프트웨어 보안 수업 GitCTF 대회용 Qt App, with [Django based Web Forum](https://github.com/jskwak98/Secondhand) |
 | [Look, Attend and Generate Poem 사진을 보고 시를 써내려가는 감성시인 서비스](https://github.com/boostcampaitech2/final-project-level3-nlp-08) | Boostcamp AI Tech, 사진을 보고 시를 쓰는 AI를 통한 Web 기반 서비스. |
 | [2021 SKKU AI x Bookathon 대상](https://github.com/jskwak98/Bookathon3_Bookie_On_And_On) | 2021 성균관대학교 주최 제 3회 AI x Bookathon 대상 수상 솔루션. |
 | [CPU Scheduler](https://github.com/jskwak98/2022-1-OS-12-Term-Project) | 2022-1학기 운영체제 수업 팀 프로젝트. 7가지 CPU Scheduling Algorithm을 Simulate하는 GUI 프로그램. |

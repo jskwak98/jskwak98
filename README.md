@@ -8,6 +8,7 @@
 
 |                           Project                            |                         Description                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [Automated MongoDB Uploader with GUI from Excel Files](https://github.com/jskwak98/MongoDB_Uploader_with_GUI) | Detects excel files' updates in the local subdirectories and automatically update the online DB |
 | [RAKE Algorithm for Korean using KiWi Tokenizer](https://github.com/jskwak98/RAKE_Korean) | Keyword Extraction Algorithm for Korean using KiWi, and TF-IDF for multiple documents |
 | [Finding Hash Collision Pairs](https://github.com/jskwak98/Info_sec_proj2) | 2022-2 정보보호 수업 프로젝트 |
 | [Software Security - The Broker App for GitCTF(Hacking Competition)](https://github.com/MinGeunSong/SoftwareSecurityTeam03_1113) | 소프트웨어 보안 수업 GitCTF 대회용 Qt App, with [Django based Web Forum](https://github.com/jskwak98/Secondhand) |

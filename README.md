@@ -38,8 +38,3 @@ Deep Learning
 <img src = "https://img.shields.io/badge/-Java-orange">
 <img src ="https://img.shields.io/badge/Godot-478CBF.svg?&logo=godotengine&logoColor=white">
 </p>
-
-<br><br>
-## Github Stats
-![jskwak98's github stats](https://github-readme-stats.vercel.app/api?username=jskwak98&show_icons=true&count_private=true&theme=dark)[![jskwak98's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jskwak98&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true&theme=dark)](https://github.com/jskwak98)
-

@@ -22,9 +22,10 @@
 
 <br><br>
 ## Currently Studying
-[Django](https://github.com/jskwak98/Jump2Django)<br>
+Django<br>
+Docker<br>
+JavaScript<br>
 Security<br>
-Deep Learning
 
 <br><br>
 ## Stacks

@@ -2,6 +2,7 @@
 
 <br><br>
 **Blog : https://velog.io/@jskwak98**
+**Website Project : http://stat-simul.xyz/**
 <br><br>
 
 ## Project Repository Table

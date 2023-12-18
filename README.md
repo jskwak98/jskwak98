@@ -9,7 +9,7 @@
 
 |                           Project                            |                         Description                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [실시간 Multi User 대상 Stat Simulation Website Frontend](https://github.com/jskwak98/stat_simulator_backend)| 대화고등학교 강의에서 활용한 [실시간 통계 시뮬레이션 사이트](http://stat-simul.xyz/) 프론트엔드, HTML CSS JS |
+| [실시간 Multi User 대상 Stat Simulation Website Frontend](https://github.com/jskwak98/stat_simulator_frontend)| 대화고등학교 강의에서 활용한 [실시간 통계 시뮬레이션 사이트](http://stat-simul.xyz/) 프론트엔드, HTML CSS JS |
 | [실시간 Multi User 대상 Stat Simulation Website Backend](https://github.com/jskwak98/stat_simulator_backend)| 대화고등학교 강의에서 활용한 [실시간 통계 시뮬레이션 사이트](http://stat-simul.xyz/) 백엔드, FastAPI |
 | [More Google Trends Data Service](https://github.com/jskwak98/more_google_trends) | Returns Relative Frequency of Multiple Keywords at Once|
 | [Automated MongoDB Uploader with GUI from Excel Files](https://github.com/jskwak98/MongoDB_Uploader_with_GUI) | Detects excel files' updates in the local subdirectories and automatically update the online DB |

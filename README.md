@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&text=Works%20I've%20Done&color=gradient&customColorList=2)
 
 <br><br>
-**Blog : https://velog.io/@jskwak98**
+**Blog : https://velog.io/@jskwak98**<br>
 **Website Project : http://stat-simul.xyz/**
 <br><br>
 
